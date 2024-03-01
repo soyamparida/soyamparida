@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamparida&label=Profile%20views&color=0e75b6&style=flat" alt="soyamparida" /> </p>
 
-<p align="left"> <a href="https://twitter.com/soyamparida" target="blank"><img src="https://img.shields.io/twitter/follow/soyamparida?logo=twitter&style=for-the-badge" alt="soyamparida" /></a> </p>
 
 - 🌱 I’m currently learning : **JAVA , PYTHON.**
 
