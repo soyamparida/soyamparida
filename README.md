@@ -1,4 +1,4 @@
-[![MasterHead(https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm SOYAM RANJAN PARIDA</h1>
 <h3 align="center">A passionate learner of computer science candidate for AIML and FULL STACK DEVELOPER.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyamparida&show_icons=true&locale=en" alt="soyamparida" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyamparida&" alt="soyamparida" /></p>
+
