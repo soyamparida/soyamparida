@@ -17,7 +17,7 @@
 <a href="https://twitter.com/@soyamparida1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@soyamparida1408" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soyam-parida-895707289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soyam-parida-895707289" height="30" width="40" /></a>
 <a href="https://instagram.com/so.yamm____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="so.yamm____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@oyesoyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oyesoyam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@oyesoyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@OyeSoyam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soyamiter2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soyamiter2027" height="30" width="40" /></a>
 </p>
 
