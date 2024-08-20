@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@soyamparida1408" target="blank"><img src="https://img.shields.io/twitter/follow/@soyamparida1408?logo=twitter&style=for-the-badge" alt="@soyamparida1408" /></a> </p>
 
-- 🌱 I’m currently learning : **JAVA , PYTHON** , HTML** , CSS**
+- 🌱 I’m currently learning : **JAVA , PYTHON**
 
 - 📫 Reach me out : **SOYAMPARIDA54@GMAIL.COM**
 
