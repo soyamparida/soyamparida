@@ -1,7 +1,7 @@
 
 <h1 align="center">Heyyy!👋,I'm Soyam Ranjan Parida</h1>
 
-<h3 align="center">GOD , DISCIPLINE , CONSISTENCY , HARDWORK!</h3>
+<h6 align="center">GOD , DISCIPLINE , CONSISTENCY , HARDWORK!</h6>
 
 - 🔭 I’m currently working on **PMSSS**
 - 👯 I love to read  **books**, nd watch **netflix**
@@ -23,13 +23,13 @@
 
 
 
-Github Stats
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyamparida&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="shiva" </p>
+<h2> My Github status<h2>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soyamparida&show_icons=true&locale=en&layout=compact&theme=midnight-purple" </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyamparida&show_icons=true&locale=en&theme=midnight-purple" alt="shiva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soyamparida&show_icons=true&locale=en&theme=midnight-purple"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyamparida&theme=midnight-purple" alt="shiva" /></p>
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soyamparida&theme=midnight-purple"/></p>
+
 
 
 ## Lets Connect
