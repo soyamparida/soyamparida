@@ -4,9 +4,9 @@
 <h3 align="center">GOD , DISCIPLINE , CONSISTENCY , HARDWORK!</h3>
 
 - 🔭 I’m currently working on **PMSSS**
-- 👯 I’m looking to collaborate on **Pashuvedam**
+- 👯 I love to read  **books**, nd watch **netflix**
 - 💬 Ask me about my **experience**.
-- ⚡ Fun fact :- ~**People say coding is hard**
+- ⚡ Fun fact ~ **People say coding is hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
