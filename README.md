@@ -1,7 +1,7 @@
 ![logo](https://github.com/soyamparida/soyamparida/blob/master/BANNER.1.gif)
 <h1 align="center">Hi 👋, I'm SOYAM RANJAN PARIDA</h1>
 <h3 align="center">A passionate learner of computer science candidate for AIML and FULL STACK DEVELOPER.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=9022223ce295faef&sca_upv=1&rlz=1C1CHBF_enIN1067IN1067&sxsrf=ADLYWIJFZejDiBFFLGSwjgofDw0PMYjODA:1725341140418&q=coding+gif+for+github&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwjE2qnOhKaIAxVC1TgGHS1LA8MQtKgLegQIFBAB&biw=1280&bih=585&dpr=1.5#vhid=gjV-fY87U3IhAM&vssid=mosaic">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyamparida&label=Profile%20views&color=0e75b6&style=flat" alt="soyamparida" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@soyamparida1408" target="blank"><img src="https://img.shields.io/twitter/follow/@soyamparida1408?logo=twitter&style=for-the-badge" alt="@soyamparida1408" /></a> </p>
