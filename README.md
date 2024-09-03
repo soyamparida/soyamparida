@@ -17,13 +17,6 @@
 <a href="https://www.leetcode.com/soyamiter2027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soyamiter2027" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Visits on my Profile</h3>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=soyamparida&label=Profile%20Views&color=11&icon=5&pretty=false" />
-</a>
-
-
 ## About Me:
 
 "I am currently pursuing a B.Tech degree, with a strong passion for AI/ML and full stack development. My academic journey is centered around mastering these cutting-edge technologies to build innovative solutions. I am committed to continuous learning and growth in the tech field, aiming to develop practical skills that can make a difference. My enthusiasm for coding and problem-solving drives me to explore new challenges. I believe in the power of technology to transform industries and improve lives. As I progress in my studies, I am excited about the opportunities to contribute to the tech community and beyond."
