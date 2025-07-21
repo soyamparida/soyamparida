@@ -2,7 +2,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Heyyy!👋,I'm Soyam Ranjan Parida</h1>
 
-<h6 align="center">GOD , DISCIPLINE , CONSISTENCY , HARDWORK!</h6>
+
 
 - 🔭 I’m currently working on **PMSSS**
 - 👯 I love to read  **books**, nd watch **netflix**
