@@ -9,6 +9,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="Matrix Digital Rain" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20the%20AI%20Matrix&fontSize=35&fontAlignY=35&animation=fadeIn" />
+</p>
 
 ## 🧠 Identity
 Computer Science undergraduate building a strong foundation in how software systems work.  
